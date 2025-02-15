@@ -34,7 +34,7 @@ A **Flutter-based Wallpaper Application** that fetches high-quality wallpapers f
 🔧 Installation
 ---------------
 
-1.  git clone https://github.com/yourusername/wallpaper-app.gitcd wallpaper-app
+1.  git clone Repo_link
     
 2.  flutter pub get
     
