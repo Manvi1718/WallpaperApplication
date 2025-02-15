@@ -16,18 +16,10 @@ A **Flutter-based Wallpaper Application** that fetches high-quality wallpapers f
 📸 Screenshots
 --------------
 
-## Home Page
-<img src="https://github.com/user-attachments/assets/7712a092-8e57-4cd8-ba50-eec7fbe153f6" width="300" height="600" />
+| Demo Video | Home Page | Selected Wallpaper Image | Successfully Set Wallpaper |
+|------------|-----------|--------------------------|----------------------------|
+| ![Demo](assets/recording.gif) | <img src="https://github.com/user-attachments/assets/7712a092-8e57-4cd8-ba50-eec7fbe153f6" width="300" height="600" /> | <img src="https://github.com/user-attachments/assets/e2f20cdc-6bc2-4d84-8e6f-fe5840b5c70d" width="300" height="600" /> | <img src="https://github.com/user-attachments/assets/184d6a7b-6297-4f04-acff-26479cd7ebe6" width="300" height="600" /> |
 
-## Selected Wallpaper Image
-<img src="https://github.com/user-attachments/assets/e2f20cdc-6bc2-4d84-8e6f-fe5840b5c70d" width="300" height="600" />
-
-## Successfully Set Wallpaper
-<img src="https://github.com/user-attachments/assets/184d6a7b-6297-4f04-acff-26479cd7ebe6" width="300" height="600" />
-
-
-## Working Video
-![Demo](assets/recording.gif)
 
 
 
